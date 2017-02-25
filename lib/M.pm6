@@ -1,4 +1,4 @@
-sub EXPORT ($sym = '⇶') {
+sub EXPORT ($sym = '▸') {
     Map.new: '&postfix:<' ~ $sym ~ '>' => sub (\what) {
         class {
             BEGIN {
