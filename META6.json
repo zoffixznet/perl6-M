@@ -5,7 +5,7 @@
     "description"
         : "M, the 1-character Map: non-nodal, non-autothreading .map(*.some-method)",
     "depends"      : [ ],
-    "test-depends" : [ "Test" ],
+    "test-depends" : [ "Test", "Test::Meta" ],
     "provides"     : {
         "M" : "lib/M.pm6"
     },
