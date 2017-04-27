@@ -2,7 +2,7 @@
     "perl"         : "6.c",
     "name"         : "M",
     "license"      : "Artistic-2.0",
-    "version"      : "1.001001",
+    "version"      : "1.001002",
     "description"
         : "M, the 1-character Map: non-nodal, non-autothreading .map(*.some-method)",
     "depends"      : [ ],
